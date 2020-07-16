@@ -1,0 +1,26 @@
+{
+  "name": "ali-ckeditor-upload",
+  "version": "1.0.0",
+  "description": "aliyun oss upload image ckeditor plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moking1997/ali-ckeditor-upload.git"
+  },
+  "keywords": [
+    "ckeditor",
+    "plugin"
+  ],
+  "author": "Moking1997",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moking1997/ali-ckeditor-upload/issues"
+  },
+  "homepage": "https://github.com/Moking1997/ali-ckeditor-upload#readme",
+  "dependencies": {
+    "ali-oss": "^6.10.0"
+  }
+}
